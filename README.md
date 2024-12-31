@@ -9,7 +9,7 @@ A lightweight Python library for controlling a the [μSMU source-measure unit](h
 - Automatically insert a configurable delay (e.g., 50 ms) between commands.
 - Installation
 
-You can install this package directly from PyPI (once published):
+You can install this package directly from PyPI:
 ```bash
 pip install usmu_py
 ```
