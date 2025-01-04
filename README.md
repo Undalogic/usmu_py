@@ -1,5 +1,5 @@
 # μSMU Python Library
-A lightweight Python library for controlling a the [μSMU source-measure unit](https://github.com/joeltroughton/uSMU) device over a Virtual COM Port (VCP). This library provides a simple Python interface to send commands and read measurements from the μSMU, making it easy to automate I–V sweeps, data logging, and more.
+A lightweight Python library for controlling the [μSMU source-measure unit](https://github.com/joeltroughton/uSMU) device over a Virtual COM Port (VCP). This library provides a simple Python interface to send commands and read measurements from the μSMU, making it easy to automate I–V sweeps, data logging, and more.
 
 ## Features
 - Communicate with a USB SMU via a serial (VCP) interface using PySerial.
